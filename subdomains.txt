@@ -1,4 +1,5 @@
 a
+aanmelden
 acc
 acc-www
 accept
@@ -326,6 +327,8 @@ jupiter
 k
 kb
 kerberos
+klant
+klanten
 l
 la
 lab
