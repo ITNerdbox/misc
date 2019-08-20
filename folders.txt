@@ -68,6 +68,8 @@ bug
 bugs
 cache
 calendar
+carreer
+carriere
 cart
 categories
 cgi-bin
@@ -159,6 +161,8 @@ invoices
 iso
 it
 javascript
+job
+jobs
 joomla
 jquery
 js
@@ -199,6 +203,7 @@ New_Management
 news
 newsletter
 newsletters
+nieuws
 nl
 office
 Office
