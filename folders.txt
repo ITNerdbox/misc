@@ -333,6 +333,8 @@ users
 utils
 v1
 v2
+vendor
+vendors
 video
 view
 _vti_aut
