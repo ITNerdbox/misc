@@ -1,2 +1,3 @@
-# Misc files
-The files here are used by external tools for information gathering purposes.
+# Misc files & Notes
+
+Used either for use with tools or as documentation in order to fine tune security testing systems.
